@@ -1,6 +1,6 @@
 # 🎲 Dice Roller - Python Terminal Game
 
-A simple and fun terminal-based dice-rolling game written in Python. This mini-project allows users to simulate rolling a dice with random values between 1 and 7.
+A simple and fun terminal-based dice-rolling game written in Python. This mini-project allows users to simulate rolling a dice with random values between 1 and 6.
 
 ## 📌 Features
 
